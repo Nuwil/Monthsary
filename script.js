@@ -3,7 +3,7 @@ function playAudio() {
     var header = document.getElementById('header');
     var button = document.querySelector('button'); 
 
-    header.style.backgroundImage = 'url("images/picture.png")';
+    header.style.backgroundImage = 'url("images/picture.jpg")';
 
     button.style.display = 'none';
 
